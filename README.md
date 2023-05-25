@@ -1,4 +1,4 @@
-# CSCI3100 Project - StockStalker
+# CSCI3310 Project - PhotoMapper
 ## Build Instructions
 Version of Android Studio: Android Studio Dolphin 2021.3.1
 ## User Guide
